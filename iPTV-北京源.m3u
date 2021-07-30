@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 ,CCTV-1 综合 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 ,CCTV-2 经济 高清
@@ -36,7 +35,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CETV-1 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
-
 #EXTINF:-1 ,北京卫视 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 ,冬奥纪实 高清
@@ -93,7 +91,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
 #EXTINF:-1 ,快乐垂钓 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
-
 #EXTINF:-1 ,北京IPTV+ 4K超清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 ,北京IPTV+ 淘剧场
@@ -106,19 +103,16 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 ,北京IPTV+ 萌宠TV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-
 #EXTINF:-1 ,凤凰中文 720P
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 ,凤凰资讯 720P
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-
 #EXTINF:-1 ,黑莓电影 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 ,黑莓动画 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
 #EXTINF:-1 ,哒啵赛事 高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
-
 #EXTINF:-1 ,求索记录 高清
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 ,求索生活 高清
